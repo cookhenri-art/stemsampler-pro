@@ -15,14 +15,15 @@
 
 | Produit | Description |
 |---------|-------------|
-| [Les Saboteurs](https://github.com/yourusername/les-saboteurs) | Jeu de déduction sociale multijoueur (6-12 joueurs) |
-| [Chess Battle Camp](https://github.com/yourusername/chess-battle-camp) | Stratégie tour par tour 3D sur grille hexagonale |
-| [GeoTag](https://github.com/yourusername/geotag) | Réseau social géolocalisé PWA |
-| [Overlay Animation Studio](https://github.com/yourusername/overlay-animation-studio) | Éditeur neon d'overlays animés pour streams |
-| [**StemSampler Pro**](https://github.com/yourusername/stem_sampler) | Plugin VST3/CLAP — séparation de stems par IA |
-| **AI Factory Studio** | Studio IA local tout-en-un (bientôt) |
+| [Les Saboteurs](https://roronoa-games.com/product-saboteurs.html) | Jeu de déduction sociale multijoueur (6-12 joueurs) |
+| [Chess Battle Camp](https://roronoa-games.com/product-chess.html) | Stratégie tour par tour 3D sur grille hexagonale |
+| [GeoTag](https://roronoa-games.com/product-geotag.html) | Réseau social géolocalisé PWA |
+| [Singer Master](https://roronoa-games.com/product-singer.html) | Jeu musical multijoueur (2-20 joueurs) |
+| [Overlay Animation Studio](https://roronoa-games.com/product-overlayanimstudio.html) | Éditeur neon d'overlays animés pour streams |
+| [**StemSampler Pro**](https://roronoa-games.com/product-stemsampler.html) | Plugin VST3/CLAP — séparation de stems par IA |
+| [AI Factory Studio](https://roronoa-games.com/product-aifactory.html) | Studio IA local tout-en-un (bientôt) |
 
-→ [Catalogue complet sur roronoa-games.com](https://roronoa-games.com)
+→ [Catalogue complet sur roronoa-games.com](https://roronoa-games.com/products.html)
 
 ---
 
@@ -177,11 +178,18 @@ Sinon : https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 ---
 
+## 📥 Téléchargement
+
+Version pré-compilée disponible :
+→ [Télécharger StemSamplerPro.zip](https://github.com/cookhenri-art/stemsampler-pro/releases/download/V1.0.0/StemSamplerPro.zip)
+
+Ou compiler depuis les sources :
+
 ## 🔨 Compilation
 
 ```cmd
-git clone https://github.com/yourusername/stem_sampler.git
-cd stem_sampler
+git clone https://github.com/cookhenri-art/stemsampler-pro.git
+cd stemsampler-pro
 cargo xtask bundle stem_sampler --release --features onnx
 ```
 
@@ -192,7 +200,7 @@ target\bundled\stem_sampler.vst3\
 
 ---
 
-## 📥 Installation du VST3
+## 📦 Installation du VST3
 
 Copier le dossier `stem_sampler.vst3` vers :
 ```
@@ -309,10 +317,8 @@ stem_sampler/
 
 ## 🤝 Contribuer
 
-Les contributions sont bienvenues ! Ce projet est développé avec passion pour le DSP audio et Rust.
-
-- 🐛 **Signaler des bugs** via les [Issues](https://github.com/yourusername/stem_sampler/issues)
-- 💡 **Proposer des fonctionnalités** dans les [Discussions](https://github.com/yourusername/stem_sampler/discussions)
+- 🐛 **Signaler des bugs** via les [Issues](https://github.com/cookhenri-art/stemsampler-pro/issues)
+- 💡 **Proposer des fonctionnalités** dans les [Discussions](https://github.com/cookhenri-art/stemsampler-pro/discussions)
 - 🎵 **Partager vos presets** (export JSON des presets)
 - 🌍 **Traduire l'interface** (contactez [RORONOA GAMES](https://roronoa-games.com) pour coordonner)
 
@@ -344,8 +350,8 @@ Les frameworks sous-jacents sont sous leurs licences respectives :
 
 **StemSampler Pro** — *Where AI meets craft.*
 
-Made with ❤️ by **RORONOA GAMES**
+Made with ❤️ by **RORONOA GAMES** — 三刀流 • Santōryū Style
 
-[🏠 Site officiel](https://roronoa-games.com) • [📷 @roronoa.games](https://www.instagram.com/roronoa_games/) • [📘 Facebook](https://www.facebook.com/profile.php)
+[🏠 Site officiel](https://roronoa-games.com) • [📱 @roronoa.games](https://www.instagram.com/roronoa_games/) • [📘 Facebook](https://www.facebook.com/profile.php?id=61587474752031) • [🎵 Camhenco](https://open.spotify.com/intl-fr/artist/04OndO5DLKuUWjNlw3NBN1)
 
 </div>
