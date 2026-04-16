@@ -11,48 +11,18 @@
 
 ---
 
-## 🎮 Autres produits Roronoa Games
+## 📦 Autres produits RORONOA GAMES
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <a href="https://github.com/yourusername/stem_sampler">
-        <img src="https://img.shields.io/badge/🎵-StemSampler_Pro-FF6B35?style=for-the-badge" alt="StemSampler Pro"/>
-      </a>
-      <br><br>
-      <b>Plugin VST3/CLAP</b><br>
-      <sub>Séparation AI + sampler polyphonique avancé</sub><br><br>
-      <code>Rust</code> <code>nih-plug</code> <code>egui</code> <code>ONNX</code>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/yourusername/produit2">
-        <img src="https://img.shields.io/badge/🎮-Produit_2-1DB954?style=for-the-badge" alt="Produit 2"/>
-      </a>
-      <br><br>
-      <b>Type de produit</b><br>
-      <sub>Description courte du produit 2</sub><br><br>
-      <code>Tech 1</code> <code>Tech 2</code>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/yourusername/produit3">
-        <img src="https://img.shields.io/badge/🎨-Produit_3-E91E63?style=for-the-badge" alt="Produit 3"/>
-      </a>
-      <br><br>
-      <b>Type de produit</b><br>
-      <sub>Description courte du produit 3</sub><br><br>
-      <code>Tech 1</code> <code>Tech 2</code>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://github.com/yourusername/produit4">
-        <img src="https://img.shields.io/badge/🚀-Produit_4-9C27B0?style=for-the-badge" alt="Produit 4"/>
-      </a>
-      <br><br>
-      <b>Type de produit</b><br>
-      <sub>Description courte du produit 4</sub><br><br>
-      <code>Tech 1</code> <code>Tech 2</code>
-    </td>
-  </tr>
-</table>
+| Produit | Description |
+|---------|-------------|
+| [Les Saboteurs](https://github.com/yourusername/les-saboteurs) | Jeu de déduction sociale multijoueur (6-12 joueurs) |
+| [Chess Battle Camp](https://github.com/yourusername/chess-battle-camp) | Stratégie tour par tour 3D sur grille hexagonale |
+| [GeoTag](https://github.com/yourusername/geotag) | Réseau social géolocalisé PWA |
+| [Overlay Animation Studio](https://github.com/yourusername/overlay-animation-studio) | Éditeur neon d'overlays animés pour streams |
+| [**StemSampler Pro**](https://github.com/yourusername/stem_sampler) | Plugin VST3/CLAP — séparation de stems par IA |
+| **AI Factory Studio** | Studio IA local tout-en-un (bientôt) |
+
+→ [Catalogue complet sur roronoa-games.com](https://roronoa-games.com)
 
 ---
 
@@ -341,8 +311,10 @@ stem_sampler/
 
 Les contributions sont bienvenues ! Ce projet est développé avec passion pour le DSP audio et Rust.
 
-Si tu trouves un bug ou as une idée de feature, ouvre une issue.
-Pour contribuer du code, ouvre une pull request avec une description claire.
+- 🐛 **Signaler des bugs** via les [Issues](https://github.com/yourusername/stem_sampler/issues)
+- 💡 **Proposer des fonctionnalités** dans les [Discussions](https://github.com/yourusername/stem_sampler/discussions)
+- 🎵 **Partager vos presets** (export JSON des presets)
+- 🌍 **Traduire l'interface** (contactez [RORONOA GAMES](https://roronoa-games.com) pour coordonner)
 
 ---
 
@@ -354,6 +326,8 @@ Les frameworks sous-jacents sont sous leurs licences respectives :
 - **nih-plug** : ISC License
 - **HTDemucs model** : MIT License (Meta Research)
 - **ONNX Runtime** : MIT License
+
+© 2026 RORONOA GAMES. Tous droits réservés.
 
 ---
 
@@ -370,8 +344,8 @@ Les frameworks sous-jacents sont sous leurs licences respectives :
 
 **StemSampler Pro** — *Where AI meets craft.*
 
-Made with ❤️ by **Roronoa Games**
+Made with ❤️ by **RORONOA GAMES**
 
-[Signaler un bug](https://github.com/yourusername/stem_sampler/issues) • [Proposer une feature](https://github.com/yourusername/stem_sampler/issues) • [Discussions](https://github.com/yourusername/stem_sampler/discussions)
+[🏠 Site officiel](https://roronoa-games.com) • [📷 @roronoa.games](https://www.instagram.com/roronoa_games/) • [📘 Facebook](https://www.facebook.com/profile.php)
 
 </div>
