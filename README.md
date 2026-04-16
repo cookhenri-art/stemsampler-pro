@@ -11,6 +11,51 @@
 
 ---
 
+## 🎮 Autres produits Roronoa Games
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://github.com/yourusername/stem_sampler">
+        <img src="https://img.shields.io/badge/🎵-StemSampler_Pro-FF6B35?style=for-the-badge" alt="StemSampler Pro"/>
+      </a>
+      <br><br>
+      <b>Plugin VST3/CLAP</b><br>
+      <sub>Séparation AI + sampler polyphonique avancé</sub><br><br>
+      <code>Rust</code> <code>nih-plug</code> <code>egui</code> <code>ONNX</code>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/yourusername/produit2">
+        <img src="https://img.shields.io/badge/🎮-Produit_2-1DB954?style=for-the-badge" alt="Produit 2"/>
+      </a>
+      <br><br>
+      <b>Type de produit</b><br>
+      <sub>Description courte du produit 2</sub><br><br>
+      <code>Tech 1</code> <code>Tech 2</code>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/yourusername/produit3">
+        <img src="https://img.shields.io/badge/🎨-Produit_3-E91E63?style=for-the-badge" alt="Produit 3"/>
+      </a>
+      <br><br>
+      <b>Type de produit</b><br>
+      <sub>Description courte du produit 3</sub><br><br>
+      <code>Tech 1</code> <code>Tech 2</code>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/yourusername/produit4">
+        <img src="https://img.shields.io/badge/🚀-Produit_4-9C27B0?style=for-the-badge" alt="Produit 4"/>
+      </a>
+      <br><br>
+      <b>Type de produit</b><br>
+      <sub>Description courte du produit 4</sub><br><br>
+      <code>Tech 1</code> <code>Tech 2</code>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ✨ Overview
 
 Plugin VST3 instrument pour FL Studio (et tout DAW compatible VST3/CLAP).
@@ -205,24 +250,6 @@ Puis dans ton DAW : **More Plugins → rescan**.
 6. Explorer les onglets : **STEMS** (waveforms), **ENVELOPPE** (ADSR), **MOD** (LFOs), **MIX** (routage)
 
 ---
-📦 Autres produits RORONOA GAMES
-Produit
-Description
-Les Saboteurs
-Jeu de déduction sociale multijoueur (6-12 joueurs)
-Chess Battle Camp
-Stratégie tour par tour 3D sur grille hexagonale
-GeoTag
-Réseau social géolocalisé PWA
-Singer Master
-Jeu musical multijoueur 2-20 joueurs
-StemSampler Pro
-Plugin VST3/CLAP — séparation de stems par IA
-AI Factory Studio
-Studio IA local tout-en-un (bientôt)
-→ Catalogue complet sur roronoa-games.com
-
----
 
 ## 🧠 Pourquoi Rust au lieu de JUCE/C++ ?
 
@@ -342,6 +369,8 @@ Les frameworks sous-jacents sont sous leurs licences respectives :
 <div align="center">
 
 **StemSampler Pro** — *Where AI meets craft.*
+
+Made with ❤️ by **Roronoa Games**
 
 [Signaler un bug](https://github.com/yourusername/stem_sampler/issues) • [Proposer une feature](https://github.com/yourusername/stem_sampler/issues) • [Discussions](https://github.com/yourusername/stem_sampler/discussions)
 
