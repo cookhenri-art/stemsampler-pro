@@ -205,6 +205,24 @@ Puis dans ton DAW : **More Plugins → rescan**.
 6. Explorer les onglets : **STEMS** (waveforms), **ENVELOPPE** (ADSR), **MOD** (LFOs), **MIX** (routage)
 
 ---
+📦 Autres produits RORONOA GAMES
+Produit
+Description
+Les Saboteurs
+Jeu de déduction sociale multijoueur (6-12 joueurs)
+Chess Battle Camp
+Stratégie tour par tour 3D sur grille hexagonale
+GeoTag
+Réseau social géolocalisé PWA
+Singer Master
+Jeu musical multijoueur 2-20 joueurs
+StemSampler Pro
+Plugin VST3/CLAP — séparation de stems par IA
+AI Factory Studio
+Studio IA local tout-en-un (bientôt)
+→ Catalogue complet sur roronoa-games.com
+
+---
 
 ## 🧠 Pourquoi Rust au lieu de JUCE/C++ ?
 
